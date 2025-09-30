@@ -1,66 +1,49 @@
-<h1 align="center">Hi 👋! My name is Alexander Shepelin</h1>
-<h3 align="center">I'm a Fullstack Developer and Founder of ASH AI 🧠</h3>
+# Hi 👋! My name is Alexander Shepelin
+
+I'm a Fullstack Developer and Founder of **ASH AI** — a company focused on building intelligent, AI-powered solutions to automate business processes across multiple industries.
 
 ---
 
-### 🧠 About Me:
-As a Fullstack developer, I bring to the table an extensive background that spans over two years, during which I've honed my expertise in both web development and web design, thereby providing me with a comprehensive understanding and skill set that encompass the full spectrum of creating, designing, and managing intricate web-based solutions.
+## 🧠 About Me
 
-I'm also the founder of **ASH AI** — a company focused on building intelligent, AI-powered products for automating business processes across multiple industries. From smart assistants to workflow automation and data-driven tools, our goal is to make businesses more efficient and future-ready.
+As a Fullstack developer, I bring to the table an extensive background that spans over two years, during which I've honed my expertise in both web development and web design. This allows me to confidently design, build, and maintain full-scale web applications — from UI/UX to backend APIs and deployment.
+
+Currently, I'm building **ASH AI**, where we develop AI-based tools and platforms that help businesses automate workflows, make smarter decisions, and operate more efficiently. We're combining the power of LLMs (Large Language Models), custom APIs, and automation systems to solve real-world business problems.
 
 ---
 
-### 🧰 My Tech Stack:
+## 🚀 Currently Working On
+
+- 🧠 **AI-Powered Business Tools** — Building AI assistants and automation systems for document processing, internal CRM integrations, and more.
+- 🛠 **Internal Dev Tools** — Architecting backend services using **FastAPI**, **LLMs**, and **TypeScript**, enabling faster prototyping and testing of AI solutions.
+- 🤖 **Smart Automation** — Creating systems that replace repetitive workflows with intelligent automation pipelines based on real business use cases (B2B, logistics, e-commerce, consulting, etc.).
+
+---
+
+## 🧰 Tech Stack
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,astro,html,css,sass,tailwind,figma,nodejs,express,python,fastapi,postgres,mongodb,docker,git,postman" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexxii777&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxii777&layout=compact&theme=tokyonight" alt="Top Langs" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexxii777&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxii777&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-### 🚀 Currently Working On:
-- 🧠 Building AI products for business automation at **ASH AI**
-- 🛠 Internal tools using LLMs, FastAPI, and TypeScript
-- 🤖 Smart assistants and automations for real-world use cases
+## 📫 Contact Me
 
----
-
-### 📫 Contact Me:
-- 📬 Email: alexx.ash.ai@gmail.com  
+- 📨 Email: alexx.ash.ai@gmail.com  
 - 💬 Telegram: [@alexx_xii](https://t.me/alexx_xii)
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=alexxii777&label=Profile%20views&color=0e75b6&style=flat" alt="alexxii777" />
 </p>

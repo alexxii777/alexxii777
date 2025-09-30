@@ -20,20 +20,57 @@ Currently, I'm building **ASH AI**, where we develop AI-based tools and platform
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 My Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,astro,html,css,sass,tailwind,figma,nodejs,express,python,fastapi,postgres,mongodb,docker,git,postman" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/-React-000?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/-Astro-000?style=flat&logo=astro&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/-Sass-000?style=flat&logo=sass&logoColor=CC6699" />
+  <img src="https://img.shields.io/badge/-Tailwind-000?style=flat&logo=tailwindcss&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/-Figma-000?style=flat&logo=figma&logoColor=F24E1E" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/-Express.js-000?style=flat&logo=express&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/-Redis-000?style=flat&logo=redis&logoColor=DC382D" />
+
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/-Docker-000?style=flat&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/-Postman-000?style=flat&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=FCC624" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexxii777&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxii777&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexxii777&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexxii777&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexxii777&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexxii777&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexxii777&theme=tokyonight&utcOffset=3" />
+</p>
+
 
 ---
 

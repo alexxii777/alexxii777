@@ -55,25 +55,6 @@ Currently, I'm building **ASH AI**, where we develop AI-based tools and platform
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexxii777&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexxii777&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexxii777&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexxii777&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexxii777&theme=tokyonight&utcOffset=3" />
-</p>
-
-
----
-
 ## 📫 Contact Me
 
 - 📨 Email: alexx.ash.ai@gmail.com  

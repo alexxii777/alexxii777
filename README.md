@@ -1,4 +1,4 @@
-# Hi 👋! My name is Alexander Shepelin
+# Hi 👋! My name is Alex
 
 I'm a Fullstack Developer and Founder of **ASH AI** — a company focused on building intelligent, AI-powered solutions to automate business processes across multiple industries.
 
